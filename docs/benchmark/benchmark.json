@@ -1,0 +1,62 @@
+[
+  {
+    "mode": "TCP",
+    "bytes": 1024,
+    "repeats": 5,
+    "mean_seconds": 0.00034141620017180685,
+    "median_seconds": 0.0002907060002144135,
+    "mib_per_second": 2.86032853598797,
+    "status": "measured",
+    "reason": ""
+  },
+  {
+    "mode": "TLS",
+    "bytes": 1024,
+    "repeats": 5,
+    "mean_seconds": 0.002629305999926146,
+    "median_seconds": 0.0021013529999436287,
+    "mib_per_second": 0.37141454818398106,
+    "status": "measured",
+    "reason": ""
+  },
+  {
+    "mode": "TCP",
+    "bytes": 65536,
+    "repeats": 5,
+    "mean_seconds": 0.00029753979997622083,
+    "median_seconds": 0.00028367200002321624,
+    "mib_per_second": 210.05593202991653,
+    "status": "measured",
+    "reason": ""
+  },
+  {
+    "mode": "TLS",
+    "bytes": 65536,
+    "repeats": 5,
+    "mean_seconds": 0.002609425600076065,
+    "median_seconds": 0.0025699030002215295,
+    "mib_per_second": 23.951631346829018,
+    "status": "measured",
+    "reason": ""
+  },
+  {
+    "mode": "TCP",
+    "bytes": 1048576,
+    "repeats": 5,
+    "mean_seconds": 0.0012419944000612304,
+    "median_seconds": 0.0012446149999050249,
+    "mib_per_second": 805.1566093620872,
+    "status": "measured",
+    "reason": ""
+  },
+  {
+    "mode": "TLS",
+    "bytes": 1048576,
+    "repeats": 5,
+    "mean_seconds": 0.0067466265998518795,
+    "median_seconds": 0.006523071999708918,
+    "mib_per_second": 148.22222412930853,
+    "status": "measured",
+    "reason": ""
+  }
+]
